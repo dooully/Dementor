@@ -1,4 +1,17 @@
+#DEMENTOR IOS SDK 빌드 하기
+### 1. 빌드하기
+> 프레임워크 프로젝트를 선택한 후 build_framwork를 선택한후 실행하면 Desktop(바탕화면)에 DementorAuth.framework가 생성됩니다.
+
+![build](./img/build-1.png)
+
+
+
 #DEMENTOR IOS SDK 적용가이드
+## 변경 사항
+- 기존에 static 모듈로 작업 되어 있던 부분을 framework로 변경 하여 진행 하였습니다.
+- 기존보다 매체사에서 적용하기 편리하도록 구조를 변경 하였습니다.
+- 모든 써드파티 라이브러리의 버전을 업데이트 하였습니다.
+- 거의 모든 부분에 대해서 새로 작성하였습니다.
 
 
 ## DEMENTOR SDK 구성
